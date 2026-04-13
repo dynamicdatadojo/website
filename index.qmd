@@ -1,0 +1,11 @@
+---
+title: "homepage"
+---
+
+# Welcome 👋
+
+This is my website built with R and Quarto.
+
+```{r}
+summary(cars)
+```
