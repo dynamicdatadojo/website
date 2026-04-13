@@ -4,7 +4,7 @@ project:
 website:
   title: "Dynamic Data Dojo"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
