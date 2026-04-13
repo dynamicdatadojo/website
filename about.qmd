@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Mireya Smith, Ph.D."
 ---
 
-I built this site using R 🎉
+Building my portfolio.
